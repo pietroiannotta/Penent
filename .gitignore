@@ -1,0 +1,9 @@
+# Debug symbols (macOS)
+*.dSYM/
+
+# IDE
+.zed
+
+# OS junk
+.DS_Store
+Thumbs.db
